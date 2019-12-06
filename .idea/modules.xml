@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/auth-server/auth-server.iml" filepath="$PROJECT_DIR$/auth-server/auth-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cloudDemo.iml" filepath="$PROJECT_DIR$/cloudDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/demo-config-client/demo-config-client.iml" filepath="$PROJECT_DIR$/demo-config-client/demo-config-client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/demo-config-server/demo-config-server.iml" filepath="$PROJECT_DIR$/demo-config-server/demo-config-server.iml" />
+    </modules>
+  </component>
+</project>
